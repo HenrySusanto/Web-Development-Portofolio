@@ -1,0 +1,68 @@
+{margin: 0; padding: 0;}	
+
+ .collapse navbar-collapse
+{
+	overflow: hidden;
+	
+	height: auto;
+	position: sticky; top: 0;
+	padding:20px;
+}
+
+.container .media .media-body
+{
+	padding: 20px 20px;
+}
+
+.figure
+{
+	padding: 20px 20px;
+	margin-left: -15px;
+	background-color: #f3f2da;
+}
+
+
+footer {
+	width: 900px;
+	background-color: black;
+	padding: 25px;
+	margin: auto;
+	text-align: center;
+	margin-top: -15px;
+}
+
+footer p {
+	color: black;
+}
+
+.container1
+{
+
+	margin: auto;
+	width: 1200px;
+	height: auto;
+}
+
+.container1 h1
+{
+	padding: 10px 10px;
+}
+
+.container1 .kiri
+{
+	width: 700px;
+	padding: 10px 10px;
+	background-color: #d0e8f2;
+}
+
+.container .kiri .media .img:hover{
+	color: blue;
+}
+
+.container1 .kanan
+{
+	width: 400px;
+	float: left;
+	padding: 20px 20px;
+	
+}

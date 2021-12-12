@@ -1,0 +1,20 @@
+{margin: 0; padding: 0;}	
+
+.container 
+{
+	padding-top:20px;
+}
+
+.media .mediabody img .ml-3{
+	padding-top: 50px;
+}
+
+.container img
+{
+	padding: 5px 5px;
+}
+
+.figure img 
+{
+	padding-left: -10px;
+}
